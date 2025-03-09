@@ -43,13 +43,6 @@ npm run dev
 - Track orders via the Dashboard.
 - Visit the Support page for FAQs or submit a query.
 
-
-## Contributing
-Feel free to fork the repository and submit pull requests. Ensure proper documentation for any new features.
-
-## License
-This project is licensed under the MIT License.
-
 ---
 **Author:** Md. Mojadded Al Mahin
 
