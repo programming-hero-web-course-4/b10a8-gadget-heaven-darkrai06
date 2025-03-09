@@ -16,7 +16,7 @@ const ProductDetails = () => {
     return (   
     <div className="py-56 border relative">
             <div className=" md:w-[1020px] bg-white text-black border shadow-lg mx-auto p-3 rounded-xl absolute left-0 right-0 bottom-20">
-           <div className="grid grid-cols-5 gap-4">
+           <div className="flex flex-col lg:flex-row gap-4">
             <div className="col-span-2">
                 <img className="object-cover rounded-xl h-[440px]" src={img} alt="title" />
             </div>

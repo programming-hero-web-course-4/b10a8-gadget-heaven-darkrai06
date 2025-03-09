@@ -78,10 +78,10 @@ const router = createBrowserRouter([
   }
 ])
 
-createRoot(document.getElementById('root')).render(
+createRoot(document.getElementById("root")).render(
   <StrictMode>
     <HelmetProvider>
-      <RouterProvider router={router} />
+      <RouterProvider router={router} hydrationFallback={<div>Loading...</div>} />
     </HelmetProvider>
   </StrictMode>
 );
