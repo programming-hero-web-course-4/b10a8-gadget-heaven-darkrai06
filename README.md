@@ -17,8 +17,8 @@ https://gadget-dalal.netlify.app/
 ## Installation
 ### Clone the repository
 ```sh
-git clone https://github.com/your-username/gadget-heaven.git
-cd gadget-heaven
+git clone https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-darkrai06.git
+cd b10a8-gadget-heaven-darkrai06
 ```
 ### Install dependencies
 ```sh
