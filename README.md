@@ -11,6 +11,8 @@ Gadget Heaven is an e-commerce web application where users can browse, analyze, 
 
 ## Live Link
 ```
+https://gadget-dalal.netlify.app/
+```
 
 ## Installation
 ### Clone the repository
