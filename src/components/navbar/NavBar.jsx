@@ -58,11 +58,9 @@ const NavBar = () => {
             </div>
             <div className="navbar-end gap-2">
                 <div className='indicator'>
-                {cart.length>0?<span class="indicator-item badge badge-secondary">{cart.length}</span>:''}
                 <button><BsCart3 className={`border border-gray-400  w-8  h-8 bg-white text-black   p-1.5  rounded-full`}/></button>
                 </div>
                 <div className='indicator'>
-                {wishL.length>0?<span class="indicator-item badge badge-secondary">{wishL.length}</span>:''}
                 <button><IoIosHeartEmpty className='border border-gray-400 bg-white text-black  w-8  h-8  p-1.5  rounded-full' />
                 </button>
                 </div>
